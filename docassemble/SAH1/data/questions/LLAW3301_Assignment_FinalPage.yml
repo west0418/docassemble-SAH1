@@ -1,0 +1,48 @@
+---
+# Slide 5 - Final Page
+mandatory: True
+question: |
+  Thank you for reaching out to us.
+subquestion: |
+  We will get in touch with you within 3 business days via your preferred contact method. 
+  
+  You are also welcome to contact us anytime during business hours from 9:00am - 5:00pm via our free call service on **1800 309 912** or in person by coming in to one of our offices (details below). 
+  
+  There is a message bank service for calls received after operating hours.
+  
+  **IF YOU ARE IN DANGER, CALL 000.**
+  
+  There are crisis support services that are available 24 hours a day/7 days a week:
+  
+  * **13YARN on 13 92 76** - confidential one-on-one yarning opportunity with a Lifeline-trained Aborginal & Torres Strait Islander Crisis Supporter;
+  
+  * **Lifeline on 13 11 14** - crisis support for any person in Australia;
+  
+  * There is also **Lifeline Text on 0477 13 11 14** which offers a SMS-based service; and
+  
+  * **1800Respect on 1800 737 732** - support to people impacted by sexual assault, domestic or family violence and abuse
+  
+  **Our office phone numbers and locations:**
+  ### Port Augusta
+    * Phone: (08) 8641 2195;
+    * Address: 26 Jervois Street, Port Augusta, SA 5700
+  ### Port Lincoln
+    * Phone: (08) 8683 1896;
+    * Address: 89 Liverpool Street, Port Lincoln, SA 5606;
+  ### Ceduna
+    * Phone: (08) 8625 3800;
+    * Address: 17 McKenzie Street, Ceduna, SA 5700
+
+  Press *Continue* if you wish to continue through the application.
+  
+  If you do not wish to proceed, please *Exit* to exit to the FVLSAC website.
+  
+  **Please Note:** There is a **Quick Safety Exit** button located in the top right hand corner of the application. If you need to exit the application at any stage throughout, please locate this button. Pressing this button will take you to the Adelaide Bureau of Meteorology website for your safety.
+
+buttons:
+  - Continue: continue 
+  - QUICK EXIT: exit
+    url: http://www.bom.gov.au/sa/forecasts/adelaide.shtml
+  - Exit:  exit 
+    url:  https://www.fvlsac.org.au/
+---
